@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "homepage": "https://adarchiev.github.io/Minesweeper",
+  "homepage": "http://adarchiev.github.io/Minesweeper",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
